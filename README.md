@@ -1,0 +1,2 @@
+# multi_select_plugin
+基于elementUI开发的一个多选插件
